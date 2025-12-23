@@ -38,8 +38,8 @@ At the moment I am learning **Java** and **Object Orientation**
 
 <img 
     align="left"
-    title="css"
-    alt="css"
+    title="cplusplus"
+    alt="cplusplus"
     width=40px
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
